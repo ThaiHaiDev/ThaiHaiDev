@@ -28,7 +28,7 @@
 - 💞️ I’m Enthusiast In Android programing
 - 📫 I want to improve my English and programming skills. I hope to be able to become a full stack developer. 
 
-### 📫 How To Reach Me:
+### 📫 How To Contact Me:
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100010814978162" alt="Facebook">
@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/thaihai1004@gmail.com-Email-ea4335?style=flat&logo=gmail&logoWidth=20&&logoColor=fff" height="25" /></a>
   <a href="" alt="Linked In">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25" /></a>
+  <a href="" alt="Youtube">
+    <img src="https://img.shields.io/youtube/channel/views/UC8NW1w2eM-SYIDkqshz2_dw?style=social" height="25" /></a>
 </p>
 <p align="center">
   <a href="tel:+84979409568" alt="Phone">
