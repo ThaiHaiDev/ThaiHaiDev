@@ -15,8 +15,8 @@
     <img src="https://badges.pufler.dev/commits/yearly/ThaiHaiDev?style=flat&color=brightgreen" /></a>
   <a href="#" alt="Commits this month">
     <img src="https://badges.pufler.dev/commits/monthly/ThaiHaiDev?style=flat&color=brightgreen" /></a>
-  <a href="https://www.youtube.com/channel/UC8NW1w2eM-SYIDkqshz2_dw" alt="Youtube chanel views">
-    <img src="https://img.shields.io/youtube/channel/views/UCmhjCVQCe69Z68Fc6zsifAQ?label=Youtube&style=social" /></a>-->
+  <a href="https://www.youtube.com/channel/UC8NW1w2eM-SYIDkqshz2_dw" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a>-->
 </p>
 
 
@@ -37,8 +37,8 @@
     <img src="https://img.shields.io/badge/thaihai1004@gmail.com-Email-ea4335?style=flat&logo=gmail&logoWidth=20&&logoColor=fff" height="25" /></a>
   <a href="" alt="Linked In">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25" /></a>
-  <a href="" alt="Youtube">
-    <img src="https://img.shields.io/youtube/channel/views/UC8NW1w2eM-SYIDkqshz2_dw?style=social" height="25" /></a>
+  <a href="https://www.youtube.com/channel/UC8NW1w2eM-SYIDkqshz2_dw" alt="Youtube channel" target="_blank" >
+    <img src="https://img.shields.io/youtube/channel/views/UC8NW1w2eM-SYIDkqshz2_dw?style=social" height="25"/></a>
 </p>
 <p align="center">
   <a href="tel:+84979409568" alt="Phone">
