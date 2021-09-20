@@ -8,7 +8,7 @@
   <a href="#" alt="Years">
     <img src="https://badges.pufler.dev/years/ThaiHaiDev?style=flat&color=blue" /></a>
   <a href="#" alt="Repos">
-    <img src="https://badges.pufler.dev/repos/ThaiHaiDev?style=flat&color=red" /></a>
+    <img src="https://badges.pufler.dev/repos/ThaiHaiDev?style=flat" /></a>
   <a href="#" alt="All commits">
     <img src="https://badges.pufler.dev/commits/all/ThaiHaiDev?style=flat&color=brightgreen" /></a>
   <!--<a href="#" alt="Commits this year">
