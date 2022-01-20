@@ -23,9 +23,9 @@
 ### 👨‍💻 Hi, About me:
 
 - 👋 Hi, I’m @ThaiHaiDev
-- ✍ I'm a student at Ho Chi Minh City University of Technology and Education 
-- 🌱 I’m Currently learning Web Developer And More
-- 💞️ I’m Enthusiast In Android programing
+- ✍ I'm a student at Ho Chi Minh City University of Technology and Education
+- 🌱 I’m currently learning Web Developer and more
+- 💞️ I’m enthusiast in Android Programing
 - 📫 I want to improve my English and programming skills. I hope to be able to become a full stack developer. 
 
 ### 📫 How To Contact Me:
